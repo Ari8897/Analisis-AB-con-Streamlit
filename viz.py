@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import streamlit as st 
 
 # lectura de los datos y carga a la variable data_mk
-data_mk1 = pd.read_csv("C:/Users/Ari/Documents/Proyectos/marketing_ab202309/marketing_AB.csv")
+data_mk1 = pd.read_csv("marketing_AB.csv")
 
 # titulo y encabezado
 st.title("A/B Estudio De Marketing 📈")
