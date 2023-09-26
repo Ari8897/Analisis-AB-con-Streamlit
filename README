@@ -1,0 +1,8 @@
+## Informacion del dataset utilizado.
+
+El dataset utilizado para este proyecto cuenta con licencia CCO  (Public Domain.)
+Para acceder al dataset ingresa a este link de Kaggle: https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing?resource=download
+
+## El repositorio contiene: 
+* Jupyter Notebook con analisis detallado.(analisis_ab.ipynb) 
+* Archivo .py para desplegarlo en Streamlit (viz.py)
